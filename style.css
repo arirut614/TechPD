@@ -1,0 +1,25 @@
+/*Header*/
+header{
+    height: 400px;
+    width: 100%;
+    background-image: url("gf bisquick.jpeg");
+    background-size: cover;
+    /*center everything*/
+    text-align: center;
+}
+header h1{
+    font-size: 80px;
+    color: #ff0000;
+    padding: 40px
+
+}
+header p{
+    font-style: italic;
+    margin: 20px
+}
+
+/*services*/
+.services{
+    font-style: italic
+    font-size:100px;
+}
